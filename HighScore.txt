@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Raju 1230
 Raju 7920
 Raju 2850
@@ -18,3 +19,25 @@ Rajib 10300
 Rajib 9500
 Rajib 9370
 Raju 7910
+=======
+Raju 1230
+Raju 7920
+Raju 2850
+Raju 1870
+Raju 8460
+Raju 7520
+Rajib 6130
+pgfgfdpsfafddfdfsdaf 8900
+Raju 7730
+Raju 7810
+rAJU 6850
+Raju 6430
+Rajib 9460
+Rajib 4940
+Rajib 8970
+Rajib 11300
+Rajib 10300
+Rajib 9500
+Rajib 9370
+Raju 7910
+>>>>>>> c5d25d085e4f03c7882f87fc7e9a7f0744920deb
